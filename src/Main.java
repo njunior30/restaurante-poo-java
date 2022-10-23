@@ -13,7 +13,7 @@ public class Main {
         System.out.println(restaurante);
 
         Restaurante restaurante2 = new Restaurante();
-        restaurante2.setId(2L); 
+        restaurante2.setId(2L);
         restaurante2.setNomeFantasia("Restaurante da Fulana");
         restaurante2.setCnpj("000.000.0001-12");
         restaurante2.setEndereco(enderecoRestauranteFulana);
